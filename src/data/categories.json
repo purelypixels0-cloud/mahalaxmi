@@ -1,0 +1,66 @@
+[
+  {
+    "id": "cat-03",
+    "name": "Bangles & Bracelets",
+    "slug": "bangles-bracelets",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "image": "/images/category-bangles.jpg",
+    "featured": true
+  },
+  {
+    "id": "cat-04",
+    "name": "Rings",
+    "slug": "rings",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "image": "/images/category-rings.jpg",
+    "featured": false
+  },
+  {
+    "id": "cat-01",
+    "name": "Necklaces",
+    "slug": "necklaces",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "image": "/images/category-necklaces.jpg",
+    "featured": false
+  },
+  {
+    "id": "cat-02",
+    "name": "Earrings",
+    "slug": "earrings",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "image": "/images/category-earrings.jpg",
+    "featured": false
+  },
+  {
+    "id": "cat-05",
+    "name": "Pendants",
+    "slug": "pendants",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "image": "/images/category-pendants.jpg",
+    "featured": false
+  },
+  {
+    "id": "cat-06",
+    "name": "Anklets",
+    "slug": "anklets",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "image": "/images/category-anklets.jpg",
+    "featured": false
+  },
+  {
+    "id": "cat-07",
+    "name": "Nose Pins",
+    "slug": "nose-pins",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "image": "/images/category-nosepins.jpg",
+    "featured": false
+  },
+  {
+    "id": "cat-08",
+    "name": "Mangalsutra",
+    "slug": "mangalsutra",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "image": "/images/category-mangalsutra.jpg",
+    "featured": true
+  }
+]

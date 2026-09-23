@@ -1,0 +1,64 @@
+@import "tailwindcss";
+
+@theme {
+  --color-maroon: #481832;
+  --color-ink: #0A0A0A;
+  --color-ink-muted: #857463;
+  --color-pill-bg: rgba(255,255,255,0.45);
+  --color-cream: #F5E1C4;
+  --color-accent-gold: #D4A853;
+  --color-tan: #D5BA98;
+
+  --color-ivory: #f5f5dd;
+  --color-ivory-light: #fafaf2;
+  --color-teal-dark: #07272D;
+  --color-teal-deep: #02353B;
+  --color-teal-muted: rgba(7, 39, 45, 0.55);
+  --color-teal-subtle: rgba(7, 39, 45, 0.08);
+  --color-plum: #653165;
+  --color-plum-muted: rgba(101, 49, 101, 0.55);
+
+  --font-display: 'IvyOra Display', 'Fraunces', 'Georgia', serif;
+  --font-body: 'SF Pro Display', system-ui, -apple-system, sans-serif;
+
+  --shadow-warm: 0 4px 24px rgba(7, 39, 45, 0.06);
+  --shadow-card: 0 8px 32px rgba(7, 39, 45, 0.08);
+  --shadow-elevated: 0 20px 60px rgba(7, 39, 45, 0.1);
+}
+
+@layer base {
+  @font-face {
+    font-family: 'IvyOra Display';
+    src: url('/fonts/IvyOraDisplay-Medium.woff2') format('woff2'),
+         url('/fonts/IvyOraDisplay-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'SF Pro Display';
+    src: url('/fonts/SFProDisplay-Regular.woff2') format('woff2'),
+         url('/fonts/SFProDisplay-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0; padding: 0;
+    background-color: #f5f5dd; color: #07272D;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overscroll-behavior: none;
+  }
+  ::selection { background-color: #653165; color: #f5f5dd; }
+}
+
+@keyframes pulse-glow {
+  0%, 100% { opacity: 0.5; transform: scale(1); }
+  50% { opacity: 1; transform: scale(1.15); }
+}
+
+.animate-pulse-glow { animation: pulse-glow 5s ease-in-out infinite; }

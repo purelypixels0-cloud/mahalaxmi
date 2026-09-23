@@ -1,0 +1,78 @@
+[
+  {
+    "id": "scheme-01",
+    "name": "Suvarna Sanchay",
+    "tagline": "Start small, shine big — your 11-month journey to gold.",
+    "durationMonths": 11,
+    "bonusPercentage": 20,
+    "minMonthlyInstallment": 1000,
+    "benefits": [
+      "20% bonus gold on plan completion — for every ₹10,000 saved, you get ₹2,000 worth of gold free",
+      "Zero interest — entirely bonus-based, making it fully Shariah-compliant and interest-free",
+      "Flexible installment dates — pay anytime within the month without penalty",
+      "Free lifetime maintenance on all jewellery purchased through the scheme",
+      "Option to upgrade to a higher plan at any time by adjusting the difference"
+    ],
+    "terms": [
+      "Minimum monthly installment of ₹1,000; maximum no upper limit",
+      "Scheme runs for 11 consecutive months",
+      "Bonus gold is credited only upon successful completion of all 11 installments",
+      "Default in more than 2 installments will result in forfeiture of bonus",
+      "Gold will be issued at the prevailing market rate on the date of settlement",
+      "Only individuals aged 18 years and above are eligible",
+      "Scheme is non-transferable and non-refundable before maturity"
+    ]
+  },
+  {
+    "id": "scheme-02",
+    "name": "Mangala",
+    "tagline": "Plan your wedding gold with our 21-month auspicious savings plan.",
+    "durationMonths": 21,
+    "bonusPercentage": 25,
+    "minMonthlyInstallment": 1500,
+    "benefits": [
+      "25% bonus gold on successful completion of the plan",
+      "Perfect for bridal trousseau planning — accumulate gold in time for the wedding",
+      "Free exclusive bridal consultation with our in-house designers",
+      "5% discount on making charges for all jewellery purchases through the scheme",
+      "Priority access to new bridal collection launches",
+      "Option to withdraw gold in phases before the wedding date"
+    ],
+    "terms": [
+      "Minimum monthly installment of ₹1,500; maximum no upper limit",
+      "Scheme duration is 21 consecutive months",
+      "Bonus is applicable only on full completion of all installments",
+      "Early withdrawal allowed after 12 months with reduced bonus of 15%",
+      "Missing 3 or more installments voids the bonus offer",
+      "Gold rate for settlement will be the average of the last 3 months of the scheme",
+      "One account per PAN card permitted under this scheme"
+    ]
+  },
+  {
+    "id": "scheme-03",
+    "name": "Shree",
+    "tagline": "Build a substantial gold corpus over 3 years with maximum rewards.",
+    "durationMonths": 36,
+    "bonusPercentage": 30,
+    "minMonthlyInstallment": 2000,
+    "benefits": [
+      "30% bonus gold at maturity — the highest bonus across all our schemes",
+      "Suitable for long-term gold investment and wealth building",
+      "Complimentary gold coin (1g) at the halfway mark (18 months)",
+      "Free jewellery insurance for one year on purchases made through the scheme",
+      "Dedicated relationship manager for the duration of the plan",
+      "10% discount on special festival collections during Diwali and Raja",
+      "Family pooling allowed — multiple family members can contribute to a single plan"
+    ],
+    "terms": [
+      "Minimum monthly installment of ₹2,000; maximum no upper limit",
+      "Scheme runs for 36 consecutive months",
+      "Full 30% bonus is payable only upon completion of all 36 installments",
+      "Partial closure allowed after 24 months with a reduced bonus of 20%",
+      "A grace period of 7 days per month is allowed for late payments",
+      "More than 5 missed installments across the term will cancel the bonus",
+      "Gold will be delivered in the form of jewellery, coins, or bars at the customer's choice",
+      "TDS applicable on bonus value as per prevailing income tax rules"
+    ]
+  }
+]

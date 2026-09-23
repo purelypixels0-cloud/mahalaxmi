@@ -1,0 +1,74 @@
+[
+  {
+    "id": "col-01",
+    "name": "Tarakasi",
+    "slug": "tarakasi",
+    "description": "Exquisite silver filigree work handcrafted by Odisha's finest artisans.",
+    "story": "Tarakasi is the ancient Odia art of silver filigree, passed down through generations of artisans in Cuttack and Balasore. Each piece begins with molten silver drawn into fine wires, which are then meticulously twisted, flattened, and shaped into intricate patterns inspired by nature, temple architecture, and traditional motifs. The result is jewellery that feels ethereal — lightweight yet richly detailed. Our Tarakasi collection celebrates this 500-year-old craft, preserving its legacy while introducing contemporary silhouettes for the modern woman.",
+    "image": "/images/collection-1.jpg",
+    "pieces": 42
+  },
+  {
+    "id": "col-02",
+    "name": "Pattachitra",
+    "slug": "pattachitra",
+    "description": "Jewellery inspired by the vibrant cloth-based scroll paintings of Odisha.",
+    "story": "Pattachitra, meaning 'cloth painting', is a revered art form from Puri and Raghurajpur. Our Pattachitra collection translates the bold outlines, earthy pigments, and mythological narratives of this painting tradition into wearable art. Enamel work, gemstone inlays, and intricate engraving bring to life motifs of Lord Jagannath, lotus blooms, and peacocks. Each piece is a miniature canvas, blending the spiritual essence of Odisha's temples with the craftsmanship of our karigars.",
+    "image": "/images/collection-2.jpg",
+    "pieces": 36
+  },
+  {
+    "id": "col-03",
+    "name": "Filigree Gold",
+    "slug": "filigree-gold",
+    "description": "Delicate gold filigree pieces that combine luxury with lightness.",
+    "story": "Our Filigree Gold collection elevates the traditional Tarakasi technique by working in 22K gold. Fine gold wires are painstakingly shaped into floral scrolls, paisleys, and geometric patterns that catch the light from every angle. This collection is designed for those who appreciate understated elegance — each piece is surprisingly light on the wrist or neck but commands attention through its intricate craftsmanship. A true labour of love from Balasore's master jewellers.",
+    "image": "/images/collection-3.jpg",
+    "pieces": 28
+  },
+  {
+    "id": "col-04",
+    "name": "Temple Jewellery",
+    "slug": "temple-jewellery",
+    "description": "Sacred designs inspired by the temples of Bhubaneswar, Puri, and Konark.",
+    "story": "The temples of Odisha are not just places of worship — they are repositories of art, architecture, and symbolism. Our Temple Jewellery collection draws from the intricate carvings of the Sun Temple at Konark, the shikharas of the Lingaraja Temple, and the divine iconography of Jagannath Temple. Gold, uncut diamonds, and rubies are set in designs that feature gopuram motifs, deity-inspired pendants, and temple-border necklaces. Each piece is a tribute to Odisha's spiritual and artistic heritage.",
+    "image": "/images/collection-4.jpg",
+    "pieces": 34
+  },
+  {
+    "id": "col-05",
+    "name": "Odia Bridal",
+    "slug": "odia-bridal",
+    "description": "Complete bridal ensembles for the Odia bride, crafted to perfection.",
+    "story": "An Odia wedding is a celebration of culture, rituals, and timeless beauty. Our Odia Bridal collection offers everything a bride needs — from the traditional Jadanagam (waist belt) and Chitki (necklace set) to elaborate jhumkas and matha patti. Each set is crafted in 22K gold with uncut diamonds, emeralds, and rubies, following traditional patterns that have adorned Odia brides for centuries. We work closely with each bride to create a trousseau that honours her family traditions while reflecting her personal style.",
+    "image": "/images/collection-5.jpg",
+    "pieces": 55
+  },
+  {
+    "id": "col-06",
+    "name": "Daily Wear",
+    "slug": "daily-wear",
+    "description": "Lightweight, durable gold jewellery perfect for everyday elegance.",
+    "story": "We believe every day deserves a touch of gold. Our Daily Wear collection is designed for comfort and practicality without compromising on beauty. Using lighter gold gauges and secure clasps, these pieces are built to withstand daily wear — whether you are at work, running errands, or attending a family gathering. From simple gold studs to dainty chains and bangles, this collection ensures you step out looking your best, every single day.",
+    "image": "/images/collection-6.jpg",
+    "pieces": 48
+  },
+  {
+    "id": "col-07",
+    "name": "Festival Special",
+    "slug": "festival-special",
+    "description": "Bold, celebratory designs for Raja, Diwali, Durga Puja, and more.",
+    "story": "Odisha's festivals are a riot of colour, music, and devotion — and your jewellery should match the spirit. Our Festival Special collection brings out bold, statement pieces designed for occasions like Raja Sankranti, Durga Puja, Diwali, and Kumar Purnima. Think oversized chandbalis, layered necklaces, and stacked bangles in vibrant enamel and polished gold. These are pieces that celebrate life, tradition, and the joy of coming together with family.",
+    "image": "/images/collection-7.jpg",
+    "pieces": 40
+  },
+  {
+    "id": "col-08",
+    "name": "Antique Revival",
+    "slug": "antique-revival",
+    "description": "Heritage-inspired pieces with a vintage oxidised finish.",
+    "story": "The Antique Revival collection is for those who love the charm of heirloom jewellery. Using a traditional oxidisation process, our artisans give each piece a vintage patina that mimics the look of centuries-old family treasures. Intricate meenakari work, Kundan settings, and old-world motifs like elephants, mangoes, and floral vines feature prominently. These pieces carry the soul of Odisha's royal past — each one tells a story of dynasties, devotion, and timeless beauty.",
+    "image": "/images/collection-8.jpg",
+    "pieces": 32
+  }
+]
